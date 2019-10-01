@@ -1,0 +1,1 @@
+Place downloaded MedEx-UIMA model here.
